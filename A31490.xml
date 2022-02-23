@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some observations on William Curtis with three queries to T.C. and the other Quakers in communion with him.</title>
+            <author>W. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31490</idno>
+            <idno type="STC">Wing C170</idno>
+            <idno type="STC">ESTC R32533</idno>
+            <idno type="EEBO-CITATION">12715863</idno>
+            <idno type="OCLC">ocm 12715863</idno>
+            <idno type="VID">66200</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31490)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66200)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1032:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some observations on William Curtis with three queries to T.C. and the other Quakers in communion with him.</title>
+                  <author>W. C.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Bradford</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: May the 13th, 1697.</note>
+                  <note>Imperfect: tightly bound with loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:66200:1"/>
+            <!-- PDF PAGE 59 -->
+            <head>SOME OBSERVATIONS ON <hi>Thomas Curtis;</hi> With <hi>Three Queries</hi> to <hi>T. C.</hi> and the Other <hi>Quakers</hi> in Communion with him.</head>
+            <p n="1">
+               <hi>I. THomas Curtis</hi> is to be blamed for what he acted and did at <hi>Kings-Heath</hi>-Meeting, <hi>October</hi> the 4th. 1696. or he is not to be blamed, the Printed Narrative gives an Account of the moſt Material Things that paſſed in Diſcourſe.</p>
+            <p n="2">
+               <hi>II.</hi> If he be to blamed for maintaining ſuch Erronious Do<g ref="char:EOLhyphen"/>ctrine, and alſo in publick, Whether all thoſe that are his Friends, or pretend ſo to be, and take his part, ought not to diſown him, (till he hath made a publick Confeſſion and Acknow<g ref="char:EOLhyphen"/>ledgment under his Hand, that what he there maintained and Challenged five Thouſand to meet half way between his Dwel<g ref="char:EOLhyphen"/>ling and mine, to maintain, are damnable Hereſies) otherwiſe to be deemed equally guilty with <hi>T. C.</hi> and to hold ſuch Errors as <hi>T. C.</hi> dos, or are Connivers and Cloakers of them?</p>
+            <p n="3">
+               <hi>III.</hi> It appears from his Letter under his Hand, that he acted contrary to it.</p>
+            <p n="4">
+               <hi>IV.</hi> He never gave a Meeting to his laſt Challenge, <hi>October</hi> the 4th. 1696. tho deſired, and urged to do it by two Letters, the ſecond he never anſwered.</p>
+            <p n="5">
+               <hi>V.</hi> He promiſed the People oftentimes, He would never leave them as long as he was able to come, and if not able to come, be ſaid he would ſend one; And then at laſt came and told them, he would pay the Rent no longer then to <hi>Michaelmas</hi> poſt, con<g ref="char:EOLhyphen"/>trary to what I heard him tell the Landlord, that when he was
+<pb n="2" facs="tcp:66200:2"/>
+               <!-- PDF PAGE 60 -->minded to leave it, he ſhould have half a Years warning; or if he was minded T. C. ſhould hold it no longer, he ſhould give half a Years warning; and yet contrary to all, he threw it up, <hi>October</hi> the 4th. 1696.</p>
+            <p n="6">
+               <hi>VI.</hi> In that Meeting, the 4th. of <hi>October,</hi> he ſaid none was againſt his Doctrine but <hi>W. C.</hi> And then <hi>J. R.</hi> ſpoke, then he ſaid none but he and I. See what a Shepherd this is, to leave a Flock as he ſaid, becauſe two oppoſed his Groſs Antichriſtian Errors.</p>
+            <p n="7">
+               <hi>VII.</hi> He kept not to his former Challenges, nor to his latter, nor to his Letter, and yet we do not find that either the <hi>Reading-Quakers</hi> belonging to <hi>Sun-lane,</hi> nor ſome of the <hi>N<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wberry-Quakers</hi> have diſowned him, but rather cloak and connive at it.</p>
+            <p n="8">
+               <hi>VIII.</hi> Whether any holding ſuch Groſs Antichriſtian Errors and damnable Hereſies, ought not as much to be diſowned, as a Man charged with Adultery?</p>
+            <p n="9">
+               <hi>IX.</hi> Whether ſuch of <hi>T. C.</hi>'s Communion, that do not diſown him, are not equally Guilty with himſelf? and how can any Chriſtian People ever think they are ſincere, until they diſown him for a Preacher, or that he makes a publick and ſincere re<g ref="char:EOLhyphen"/>tracting of thoſe Groſs Errors <hi>T. C.</hi> publickly maintained at <hi>Kings-Heath</hi> Meeting, <hi>October</hi> the 4th.</p>
+            <p n="10">
+               <hi>X.</hi> Whether that be not a great Cheat, that <hi>T. C.</hi>'s Name ſhould be to a Printed Sheet, wherein many of thoſe things he main<g ref="char:EOLhyphen"/>tained at <hi>Kings-Heath,</hi> he contradicts, and yet hath not re<g ref="char:EOLhyphen"/>tracted thoſe groſs Errors he not only the 4th. of <hi>October</hi> main<g ref="char:EOLhyphen"/>tained, but many of them at divers Meetings before at the ſame place, as many can teſtifie to the Truth of.</p>
+            <p n="11">
+               <hi>XI. T. C.</hi> ſaid to the People, <hi>October</hi> the 4th. 1696. He was not Angry, nor in a Paſſion, but ſaid. he had cleared his Mind. Which is the more to be noted, that theſe groſs Errors were firm<g ref="char:EOLhyphen"/>ly believed by him, and long and deeply rooted in him for many Years; for now he ſaid, <hi>Some ſay we keep our Meanings hid; But,</hi> ſaid T. C. <hi>I declare openly.</hi> And after the Confe<g ref="char:EOLhyphen"/>rence was over ſome conſiderable time, one of the Meeting ſaid to T. C. Sure thou waſt in a Paſſion? <hi>No,</hi> ſaid T. C. <hi>I was not.</hi> All which confirms his firm belief in theſe <hi>Sadducean</hi> and Groſs Antichriſtian Errors, mentioned in our <hi>One Blow more,</hi> &amp;c.</p>
+            <pb n="3" facs="tcp:66200:2"/>
+            <!-- PDF PAGE 60 -->
+            <p n="12">XII. What ground had <hi>T. C.</hi> to have challenged me to ſtand <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> if he had not oppoſed thoſe great Fundamental Doctrines I <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d writ to him about, near ſix Months before; and it is evident <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is was their difference at <hi>Reading</hi> about ſome of theſe Funda<g ref="char:EOLhyphen"/>mental Points, as may be ſeen in a Printed Sheet, by <hi>W. P. R. S. <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. J.</hi> containing Twelve Queries, with their Anſwer to their <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eri<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and alſo by a Printed Letter to <hi>Thomas Curtis, W. S. <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. C.</hi> &amp;c. wherein their Hypocriſie is laid open, and diſcovered; <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd in my Narrative, entituled <hi>One Blow more,</hi> &amp;c.</p>
+            <p n="13">
+               <hi>XIII. T. C.</hi> did uſually tells us, before the 4th. of <hi>October.</hi> 1696. <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat he knew no other Jeſus, but a Spiritual Jeſus, whom the Heaven <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Heavens could not contain.</hi> And alſo did uſe to tells us, <hi>he could <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ke no diſtinction of the Godhead and Manhood.</hi> And not only <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e 4th. of <hi>October,</hi> 1696. he ſaid, <hi>he could not tell whether it <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Godhead or Manhood that ſuffered.</hi> But I heard <hi>T. C.</hi> maintain the ſame, and in the ſame Words, long before at <hi>Reading <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ben. Coals</hi> Chamber, to <hi>G. K.</hi> my ſelf, and others.</p>
+            <p n="1">1ſt. <hi>Query.</hi> What did <hi>Thomas Curtis</hi> and the <hi>Reading-Quakers</hi> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bliſh that for, they call <hi>The Reading-Quakers vindicated.</hi> &amp;c? Did you do it, that the World ſhould know you had changed our Principles, and that you did now believe otherwiſe then <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>merly? Or did you do it, to make your Hearers and the World believe you had changed your Faith, and yet had not, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t did it only to delude the People, and continued to believe <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſame Principles <hi>Thomas Curtis</hi> maintained at <hi>Kings-Heath</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeting, and challenged 5000 to maintain it, by diſputing with <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em?</p>
+            <p n="2">2d. <hi>Query.</hi> Whether it doth not appear your Printed Vin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cation, is but a meer Cheat, and no ſincere Confeſſion of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat you believe, and <hi>T. C</hi>'s Name to it, is the more to be no<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, and remarkable? And whether <hi>B. C.</hi> is not a great Hypo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, who had ſome time before printed that Faith in Chriſt's <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eath and Sufferings. Reſurrection and Aſcention, is abſolutely neceſſary to every Man and Woman. But when afterward he <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me to oppoſe us, he Anſwered, That what he had printed in
+<pb n="4" facs="tcp:66200:3"/>
+               <!-- PDF PAGE 61 -->that Book was not his Faith, and that he had done it only <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pleaſe <hi>George Keith?</hi>
+            </p>
+            <p n="3">3d. <hi>Query.</hi> Whether <hi>T. C.</hi> did keep his Word according to hi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Letter dated <hi>April</hi> the 29th. 1696. to <hi>W. C.</hi> printed at the end o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>One Blow more,</hi> &amp;c. Secondly, Whether he hath not broke hi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Word as much in his publick Challenge at <hi>Kings-Heath</hi>-Mee<g ref="char:EOLhyphen"/>ting, to meet 5000 to diſpute and maintain his Principles then aſſerted: And <hi>W. C.</hi> urged him with two Letters to perform his Challenge, which he never did. Whether he ought not to be diſowned for a Preacher, till he make a publick and ſincere acknow<g ref="char:EOLhyphen"/>ledgment, and Retracting of thoſe Groſs Errors there maintained<g ref="char:punc">▪</g> And whether you that be his Hearers, and ſtill keep in Commu<g ref="char:EOLhyphen"/>nion with him, and have not diſowned him for a Preacher, be not equally guilty with him, and believe the ſame, he maintaine<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at <hi>Kings-Heath;</hi> or are Cloakers and Connivers at it? And whether you muſt not be ſo deemed, till you diſown him for <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Preacher, or he make a publick acknowledgment he hath chan<g ref="char:EOLhyphen"/>ged his Faith, and confeſs he is not of the ſame Principles he maintained at <hi>Kings-Heath,</hi> the 4th. of <hi>October,</hi> 1696. and di<g ref="char:EOLhyphen"/>vers time before at the Place, many of them, which many can teſti<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie?</p>
+            <p>Anſwer directly to theſe Queries, (and do not as T. C. did at <hi>Kings-Heath</hi>-Meeting, who to<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d W. C. Thoſe great Funda<g ref="char:EOLhyphen"/>mentals in W. C.<hi>'s</hi> Letter were Quibbles) that the World may know what Faith you profeſs.</p>
+            <closer>
+               <signed>W. C.</signed>
+               <dateline>
+                  <hi>Lamborn-Woodlands,</hi> 
+                  <date>
+                     <hi>May</hi> the 13th. 1697.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Bradford</hi> in <hi>New-ſtreet</hi> without <hi>Biſhopsgate,</hi> 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
